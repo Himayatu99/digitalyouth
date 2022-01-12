@@ -1,4 +1,16 @@
-h1
-{
-    background-color: green;
+img{
+    weight:50px;
+    height: 50px;    
+}
+.full{
+    background-color:blueviolet;
+    width: 100%;
+    height: 500px;
+}
+.img1 >img{
+    /* float:left; */
+    margin-left: 600px;
+    margin-top: 100px;
+    width: 50%;
+    height: 100px;
 }
